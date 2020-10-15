@@ -1,26 +1,13 @@
 
 $("#currentDay").text(moment().format('MMMM Do YYYY, h:mm:ss a'));
 
-function generate_calendar() {
-    $("#nine").$
+addTask.addEventListener("click", function(event) {
+   event.preventDefault();
+var saveNine = document.getElementById('inputNine').value;
+localStorage.setItem('inputNine', saveNine);})
 
-    $("<div>").addClass()
-}
+//function generate_calendar() {
+   
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   // $("<div>").addClass()}
 
