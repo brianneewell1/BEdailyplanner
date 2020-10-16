@@ -84,4 +84,6 @@ document.getElementById('inputFive').value = localStorage.getItem('inputFive');
 
 
 //add an if statement comparing the current time to the time on each div
+var hours = ["nine", "ten", "eleven", "twelve", "one", "two", "three", "four", "five"];
+//for (var i = 0; i < hours.length; i++) {
 
