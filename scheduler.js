@@ -212,3 +212,15 @@ function fiveColor() {
 $(document).ready(function () {
    fiveColor();
 });
+
+$("#clear-button").on("click", function(){
+   $('#inputFive').val('');
+   $('#inputFour').val('');
+   $('#inputThree').val('');
+   $('#inputTwo').val('');
+   $('#inputOne').val('');
+   $('#inputTwelve').val('');
+   $('#inputEleven').val('');
+   $('#inputTen').val('');
+   $('#inputNine').val('');
+});
