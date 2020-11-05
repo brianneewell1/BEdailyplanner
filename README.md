@@ -1,4 +1,4 @@
-# BEdailyplanner
+# Daily Schedule App
 
 ## file
 
