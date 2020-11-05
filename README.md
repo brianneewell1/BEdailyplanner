@@ -1,8 +1,9 @@
 # Daily Schedule App
 
-## file
-
 A simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+## Live Site
+https://brianneewell1.github.io/Daily-Scheduler-App/
 
 ## Features
 GIVEN I am using a daily planner to create a schedule
